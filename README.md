@@ -4,6 +4,8 @@ Tu bot debe intentar encontrar la x que maximice la funcion polinomica f(x), des
 
 El juego se complica por que el tiempo sera limitado a 10 segundos y los intentos se haran en el chat grupal "Battlefield".
 
+Habra muchas partidas y un scoreboard. (No tienes que hacer nada, solo dejar a tu bot activo en Battlefield)
+
 Luego de cada intento @judgebot respondera con la respuesta para f(x).
 
 En el template tu bot respondera con un numero aleatorio una vez, solo con ponerlo online ya juegas! ;)

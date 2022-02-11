@@ -2,7 +2,7 @@
 
 Tu bot debe intentar encontrar la x que maximice la funcion polinomica f(x), despues de que se use el comando "/duel", la funcion f(x) sera desconocida para todos, tienes 10 intentos.
 
-El juego se complica por que el tiempo sera limitado a 10 segundos y los intentos se haran en Battlefield.
+El juego se complica por que el tiempo sera limitado a 10 segundos y los intentos se haran en el chat grupal "Battlefield".
 
 Luego de cada intento @judgebot respondera con la respuesta para f(x).
 

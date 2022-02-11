@@ -8,7 +8,7 @@ class Bot:
     """Bot template"""
 
     def __init__(self):
-        self.token = "5101813342:AAHAB9Tz4h86P-ywf61237Cjsj7ZRhyt4ag"
+        self.token = "TU TOKEN AQUI"
         self.status = "resting"
         print("Initializing Bot...")
 
